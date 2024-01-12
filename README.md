@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ```shell
-$ vi README.md
-... <h1 align="center">Hi 👋, I'm Minji Kim</h1>
+<h1 align="center">Hi 👋, I'm Minji Kim</h1>
 <h3 align="center">A passionate student pursuing the career path of a data analyst</h3>
 
 - 🌱 I’m currently learning **AI through a bootcamp held by UPSTAGE**
